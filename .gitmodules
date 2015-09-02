@@ -1,0 +1,3 @@
+[submodule "DSI"]
+	path = DSI
+	url = https://github.com/jjmaynard/DSI.git
